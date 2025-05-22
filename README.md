@@ -19,12 +19,12 @@ This tool works entirely from the **Command Line Interface (CLI)** and supports 
 
 ## Features
 
-- ✅ **Encode messages** into image pixels using LSB (Least Significant Bit) technique.
-- ✅ **Decode hidden messages** from encoded images with 1-click CLI access.
-- ✅ **Supports JPG, JPEG, and PNG** image formats.
-- ✅ Clean and user-friendly CLI menu.
-- ✅ Exits automatically upon completion or when "Exit" is selected.
-- ✅ Simple implementation with no external dependencies beyond `Pillow`.
+- **Encode messages** into image pixels using LSB (Least Significant Bit) technique.
+- **Decode hidden messages** from encoded images with 1-click CLI access.
+- **Supports JPG, JPEG, and PNG** image formats.
+- Clean and user-friendly CLI menu.
+- Exits automatically upon completion or when "Exit" is selected.
+- Simple implementation with no external dependencies beyond `Pillow`.
 
 ---
 
