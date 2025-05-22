@@ -41,7 +41,7 @@ This tool works entirely from the **Command Line Interface (CLI)** and supports 
 
 ## How to Use
 
-### 1. **Run the tool**
+### 1. **Run the tool in Command Propmt**
 ```bash
 python steganography_tool.py
 ```
