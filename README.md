@@ -111,4 +111,5 @@ Pull requests and suggestions are welcome! If you have ideas to extend functiona
 ## Author
 
 Developed by **Tanazzah Shaikh**
+
 Cybersecurity Student & Enthusiast
