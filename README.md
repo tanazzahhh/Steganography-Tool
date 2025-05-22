@@ -60,15 +60,15 @@ python steganography_tool.py
 #### Encoding
 - Choose option `1`
 - Enter:
-  - Path to input image (`input.png`)
+  - Path to input image (`C:\Users\YourUsername\Pictures\input.png`)
   - Message to hide (e.g. `"Top Secret Data"`)
-  - Output image name (`output.png`)
+  - Output image name (`C:\Users\YourUsername\Pictures\output.png`)
 - Tool embeds the message and creates a new image file with the hidden content.
 
 #### Decoding
 - Choose option `2`
 - Enter:
-  - Path to encoded image (`output.png`)
+  - Path to encoded image (`C:\Users\YourUsername\Pictures\output.png`)
 - Tool displays the hidden message if one is found.
 
 ---
